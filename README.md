@@ -4,20 +4,20 @@ We introduce SonoNERFs, a novel approach that adapts Neural Radiance Fields (NeR
 
 This repository contains the Matlab source code to create the SonoNERF model and evaluate it based on simulation data. 
 
-Paper: https://www.biorxiv.org/content/10.1101/2024.04.20.590416v1
+Paper: https://www.mdpi.com/2313-7673/9/6/321
 
 ## Publication
 We kindly ask to cite our paper if you find this codebase usefull:
 ```
 @article {SonoNERF2024,
 	author = {Jansen, Wouter and Steckel, Jan},
-	title = {SonoNERFs: Neural Radiance Fields applied to Biological Echolocation Systems allow 3D Scene Reconstruction Through Perceptual Prediction},
-	elocation-id = {2024.04.20.590416},
+	title = {SonoNERFs: Neural Radiance Fields Applied to Biological Echolocation Systems Allow 3D Scene Reconstruction through Perceptual Prediction},
+	journal = {Biomimetics},
+	volume = {9},
 	year = {2024},
-	doi = {10.1101/2024.04.20.590416},
-	URL = {https://www.biorxiv.org/content/early/2024/04/25/2024.04.20.590416},
-	eprint = {https://www.biorxiv.org/content/early/2024/04/25/2024.04.20.590416.full.pdf},
-	journal = {bioRxiv}
+	URL = {https://www.mdpi.com/2313-7673/9/6/321},
+	issn = {2313-7673}
+	doi = {10.3390/biomimetics9060321}
 }
 ```
 
