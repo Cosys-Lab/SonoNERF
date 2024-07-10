@@ -44,7 +44,7 @@ The underlying source code is provided as well as five scripts to run each step 
 ### Data
 As the bat HRTF and 3D head model used in the paper are proprietary, a generic bat HRTF and 3d model is provided within the dataset. Three scenarios used in the paper are provided: the UA logo, the dragonfly on the leaf, and the three spheres. These STL 3D models can be found in the dataset. For each of them, the simulated data (generated with the first script) comes already pre-generated. 
 
-Note that the large data files (.mat files in _/Data_ and _/DataCalculated/Simultations_) are stored using LFS on this repository. Cloning this repository will include these files but downloading the repository as a ZIP may not. 
+Note that the large data files (.mat files in _/Data_ and _/DataCalculated/Simulations_) are stored using LFS on this repository. Cloning this repository will include these files but downloading the repository as a ZIP may not. 
 
 ## License
 This library is provided as is, will not be actively updated, and comes without warranty or support.
